@@ -4,6 +4,12 @@ html, body {
     padding: 0;
     height: 100%;
   }
+
+  img {
+    display: block;
+    margin: auto;
+    width: 70%;
+  }
   
   #wrapper {
     min-height: 100%
